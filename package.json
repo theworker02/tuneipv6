@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/tuneipv6",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Tune encode/decode helpers for ipv6 payloads in pipelines.",
+  "bin": {
+    "tuneipv6": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/tuneipv6.git"
+  },
+  "homepage": "https://theworker02.github.io/tuneipv6/",
+  "keywords": [
+    "tune",
+    "ipv6",
+    "encode",
+    "cli",
+    "toolkit"
+  ]
+}
